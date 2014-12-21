@@ -1,4 +1,2 @@
-Angular-nodeJs-Table
+Node Server + Angular Js
 ====================
-
-Table create with Angular
