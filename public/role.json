@@ -1,0 +1,6 @@
+[
+    { "id" : 1, "value" : "Super administrateur"},
+    { "id" : 2, "value" : "Adminstrateur"},
+    { "id" : 3, "value" : "Utilisateur"},
+    { "id" : 4, "value" : "Invité"}
+]

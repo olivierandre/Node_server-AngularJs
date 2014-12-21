@@ -1,0 +1,16 @@
+[
+    { "id" : 1 , "value" : "Propriete 1"},
+    { "id" : 2 , "value" : "Propriete 2"},
+    { "id" : 3 , "value" : "Propriete 3"},
+    { "id" : 4 , "value" : "Propriete 4"},
+    { "id" : 5 , "value" : "Propriete 5"},
+    { "id" : 6 , "value" : "Propriete 6"},
+    { "id" : 7 , "value" : "Propriete 7"},
+    { "id" : 8 , "value" : "Propriete 8"},
+    { "id" : 9 , "value" : "Propriete 9"},
+    { "id" : 10 , "value" : "Propriete 10"},
+    { "id" : 11 , "value" : "Propriete 11"},
+    { "id" : 12 , "value" : "Propriete 12"},
+    { "id" : 13 , "value" : "Propriete 13"},
+    { "id" : 14 , "value" : "Propriete 14"}
+]
